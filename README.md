@@ -178,14 +178,19 @@ It demonstrates security best practices but should be further audited before pro
 
 <hr/>
 
-<h2>👨‍💻 Author</h2>
+<hr/>
+
+<h2>👩‍💻 Author</h2>
 
 <p>
-<b>Your Name</b><br/>
-Cybersecurity Intern
+<b>Maryam Nasir</b><br/>
+Cybersecurity Intern<br/><br/>
+
+🔗 <a href="https://github.com/Crack329" target="_blank">
+github.com/Crack329
+</a>
 </p>
 
-<hr/>
 
 <h2>📜 License</h2>
 
